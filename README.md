@@ -1,5 +1,6 @@
 # Crud_python
 Les opérations CRUD avec python dans la gestions des étudiants. Le projet assure l'ajout, la suppression, la modification et la lecture des données dans la base.
+![accueile](https://github.com/user-attachments/assets/3ba4b94d-6a36-4e83-bf3d-2cc0dfedb4a9)
 
 
 # Django mise en place de gestionnaire d'etudiant avec les actions CRUD(Create, Read, Update, Delete)
