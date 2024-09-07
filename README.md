@@ -15,7 +15,8 @@ Le dossier sur lequel je crée mon environnement s'appelle : 'Docblog_django_sta
 COMMANDE : 
 	python -m venv env --> python -m venv : permet la création de l'environnement virtuel avec comme nom {env}
 	.\env\Scripts\activate : permet l'exécution de l'environnement virtuel dans windows
-
+   l'environnement n'est pas inclue dans le projet car il contient des milliers de fichiers. Alors créer votre environnement et suivre la suite.
+   
 # Création de projet django dans l'environnement virtuel
 Après l'exécution de l'environnement, je dois créer un projet django pour avoir un ensemble de fichier et dossier bien structuré.
 Toujours dans mon dossier 'Docblog_django_startprojet_crud_operation'
