@@ -120,3 +120,8 @@ def index(request):
 
     contexte = {"students": students}
     return render(request, "index.html", context = contexte)
+
+
+
+![accueile](https://github.com/user-attachments/assets/3ba4b94d-6a36-4e83-bf3d-2cc0dfedb4a9)
+
